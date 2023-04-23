@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyanYFWeng
-- 👀 I’m interested in integration in hybrid environment.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in integration for hybrid environment.
+- 🌱 I’m currently learning Python. Try to do something with pandas, SQLAlchemy.
 - 📫 You can reach me by LINE ID : ryantweng, e-mail : ryantweng@gmail.com
 
 <!---
